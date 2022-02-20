@@ -13,8 +13,8 @@
 - [CONTENTS](#contents)
   - [Introduction](#introduction)
   - [Screnshots](#screnshots)
-  - [DESKTOP](#desktop)
-  - [MOBILE](#mobile)
+    - [DESKTOP](#desktop)
+    - [MOBILE](#mobile)
   - [Methodology](#methodology)
   - [Tools I Used](#tools-i-used)
   - [What I learned](#what-i-learned)
@@ -37,7 +37,7 @@ Screnshots
 ---
 <br>
 
-## DESKTOP
+### DESKTOP
 
 <br>
 
@@ -45,7 +45,7 @@ Screnshots
 
 <br>
 
-## MOBILE
+### MOBILE
 
 <br>
 
